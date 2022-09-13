@@ -1,14 +1,8 @@
 # TP HTML CSS
 ## Présentation
 Il s'agit de la réalisation d'un formulaire permettant s'authentifier et d'une page contenant une liste de produits.
-
-# Liens de visualisation
-[`Login`] : https://kevindubuche.github.io/DUBUCHE_Kevin_CSS.github.io
-
-[`Ad List`] : https://kevindubuche.github.io/DUBUCHE_Kevin_CSS.github.io/ad_list
-
 # Réalisation
-Ces pages ont été réalisé avec HTML5 et CSS3 et sot responsives.
+Ces pages ont été réalisées avec HTML5 et CSS3 et sot responsives.
  
 # Login
 ![Login gif](login.gif)
@@ -18,4 +12,4 @@ Ces pages ont été réalisé avec HTML5 et CSS3 et sot responsives.
 
 
 
-#### &copy; Prince Divin Mackpayen 2021
+#### &copy; Prince Divin Mackpayen 2022
